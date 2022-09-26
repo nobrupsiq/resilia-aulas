@@ -1,0 +1,12 @@
+GIT/GITHUB
+-GIT = versionamento de código
+-GITHUB = plataforma
+
+REPOSITORIOS
+-Local
+-Nuvem
+
+VERSOES
+-1.0
+-1.1
+-1.2
