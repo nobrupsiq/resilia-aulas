@@ -10,3 +10,9 @@ VERSOES
 -1.0
 -1.1
 -1.2
+
+1 - Clonar o seu REPOSITORIO
+2- colocar arquivos na pasta
+3- git add
+4- git commit -m
+5- git push origin main
