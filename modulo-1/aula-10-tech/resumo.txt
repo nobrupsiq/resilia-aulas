@@ -1,1 +1,33 @@
 Inicio da aula 10!
+
+
+VARIÁVEIS DEVEM SEMPRE TER NOMES SUGESTIVOS
+
+Atividade: variando
+
+● declare uma variável chamada x, que recebe o seu nome
+● declare uma variável chamada y, que recebe sua idade (em número)
+● exiba no console, utilizando as variáveis declaradas: “O usuário de nome: <x> tem <y>
+anos”, utilizando a concatenação e as variáveis declaradas quando necessário
+● atribua o nome de algum integrante do seu trio (ou dupla) à x
+● atribua a idade dessa mesma pessoa à y
+● exiba no console, utilizando as variáveis declaradas: “O usuário de nome: <x> tem <y>
+anos”, utilizando a concatenação e as variáveis declaradas quando necessário
+● Abra sua página no navegador e verifique as mensagens presentes no console
+
+
+
+TIPOS E OPERADORES
+
+Vamos fazer juntos cada uma dessas variáveis:
+
+● Declare uma nova variável chamada cliente que recebe “Alcides Garcia”
+● Declare uma nova variável chamada conta que recebe 67768734
+● Declare uma nova variável chamada saldo que recebe 322.95
+● Exiba as mensagens “Cliente: <cliente>”, “conta: <conta>”, “saldo: <saldo>”, pulando linha
+entre cada uma e incluindo as variáveis quando necessário
+● Declare uma nova variável chamada depósito que recebe 50.00
+● atribua ao saldo o saldo atual + deposito
+● Exiba a mensagem: “Novo depósito na conta <conta>. Saldo atualizado: <saldo>
+● Verifique o tipo de cada uma das variáveis criadas com type e a ajuda do console
+● Responda: O que acontece quando somamos uma string e um number?

@@ -1,0 +1,7 @@
+ALGORITMOS
+
+Substantivo masculino
+1. (Matemática) - Sequência finita de regras, raciocínios ou operações que quando
+aplicadas a problemas permite chegar a soluções.
+2. (Informática) - Conjunto de regras e procedimentos lógicos perfeitamente definidos
+que levam à solução de um problema num número finito de passos
