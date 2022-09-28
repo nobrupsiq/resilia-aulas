@@ -7,16 +7,6 @@
 // }
 
 
-// EXERCICIO DA AULA 11
-
-// var temperatura = 38;
-
-// if (temperatura >= 38)
-//     console.log('Você está com febre')
-// else
-//     console.log('nada de febre')
-
-
 // EXPLICIAÇÃO DA AULA
 
 // var nome = prompt('Digite o seu nome: ')
