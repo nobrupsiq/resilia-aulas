@@ -19,9 +19,9 @@
 var idade = prompt("Digite a idade:");
 
 if ((idade > 15 && idade < 18) || idade > 70) {
-  alert("O voto é opcional");
+    alert("O voto é opcional");
 } else if (idade < 16) {
-  alert("Não poderá votar");
+    alert("Não poderá votar");
 } else {
-  alert("Você pode votar!");
+    alert("Você pode votar!");
 }
