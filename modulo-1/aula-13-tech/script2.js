@@ -17,3 +17,7 @@ if (calculo < 16) {
 } else if (calculo > 35 && calculo < 40) {
     alert(`IMC: ${calculo.toFixed(2)} Obesidade de segundo grau`);
 }
+
+// CONVERSÃO PARA FLOAT
+// TOFIXED() FIXA AS CASAS DECIMAIS
+// TEMPLATE STRINGS PARA FACILITAR CONCATENAÇÃO
