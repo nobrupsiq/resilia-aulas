@@ -36,3 +36,31 @@ listaDecrescente(10);
 //     }
 // }
 // fizz(20);
+
+// // CODEWARS
+
+// function summation(num) {
+//     var soma = 1;
+//     var soma2 = 0;
+//     for (let i = 1; i <= num; i++) {
+//         soma = i;
+//         soma2 = soma + soma2;
+//         console.log(soma2);
+//     }
+//     return soma2;
+// }
+// console.log(summation(8));
+
+// Contando carneirinhos
+
+var countSheep = function (num) {
+    var text = "";
+    var i = 1;
+    while (i <= num) {
+        text += `${i} sheep...`;
+        i++;
+    }
+    return text;
+};
+
+countSheep(3);
