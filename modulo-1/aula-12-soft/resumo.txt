@@ -45,3 +45,36 @@ desenvolver;
 competências;
 6. Estipular prazos;
 7. Organização pessoal e disciplina.
+
+
+Atividade: Onde vocês se vêem daqui a 5
+anos?
+
+*** 1ª parte: ***
+
+Em 5 minutos, individualmente, vocês irão pesquisar sobre os cargos
+que vocês gostariam de ocupar daqui a 5 anos.
+-FullStack Developer (Senior)
+
+Pesquisem quais são os requisitos para ocupar essa vaga, e escrevam
+aqueles que vocês já atendem e aqueles que precisarão desenvolver.
+
+-Front-end. ...
+-Back-end. ...
+-Mobile. ...
+-Banco de dados. ...
+-Infraestrutura. ...
+-Raciocínio lógico. ...
+-Linguagens de programação front-end. ...
+-Linguagens de programação back-end.
+
+
+*** 2ª parte: ***
+
+Em duplas, em 10 minutos, vocês irão compartilhar o cargo dos sonhos e quais são
+as competências e requisitos que vocês precisarão desenvolver.
+Discutam possíveis ações que vocês podem fazer para desenvolver essas
+competências.
+
+Discutam possíveis ações que vocês podem fazer para desenvolver essas
+competências.
