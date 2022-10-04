@@ -26,3 +26,38 @@ seu currículo de maneira que faça sentido, nas suas experiências ou no resumo
 alinhado
 6- Salve o currículo e também salve a descrição da vaga para consultar quando você for
 chamado para entrevista
+
+
+Desenvolvedor Full Stack
+sistemas web
+html
+css
+javascript
+git/github
+tecnologias
+utilizando
+html5
+desenvolvedor
+banco de dados
+
+
+Currículo Infográfico x Currículo Tradicional
+
+Currículo Infográfico = quando te pedirem para entregar diretamente
+Currículo Tradicional = quando for se candidatar nas vagas, nos sites e plataformas.
+
+LEMBRETE: A triagem curricular por sistemas automatizados é cada vez mais usada, e alguns
+sistemas, por exemplo, não reconhecem o texto do currículo infográfico para buscar as
+palavras-chave. Na dúvida mande seu currículo tradicional com palavras-chave.
+
+
+O que NÃO fazer no currículo!
+
+● Incluir FOTOS ou dados desnecessários (RG, CPF)
+● Usar emails pouco profissionais
+● Erros de digitação e/ou gramática
+● Colocar muitas informações desnecessárias. Tente ser objetivo
+● Incluir informações falsas, como proficiência em idiomas e habilidades
+● Ter mais de 2 páginas
+● Não faça uma lista de soft skills. As habilidades comportamentais podem
+aparecer de forma sutil nas descrições das experiências e formações
