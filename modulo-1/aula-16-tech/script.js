@@ -103,14 +103,29 @@ var gastos = [
 //     totalSemana = 0;
 // }
 
-function somarArr(arr) {
-    var total = 0;
-    for (var i = 0; i < arr.length; i++) {
-        total += arr[i];
-    }
-    return total;
-}
+var gastos = [
+    [32.98, 17.3, 28.4, 55.2],
+    [25.7, 17.13, 13.00]
+]
+// for (var i = 0; i < gastos.length; i++) {
+//     var totalSemana = 0;
+//     for (var i2 = 0; i2 < gastos[i].length; i2++) {
+//         totalSemana += gastos[i][i2];
+//     }
+//     console.log(`Gasto na semana ${i}: ${totalSemana}`);
+// }
 
-for (var i = 0; i < gastos.length; i++) {
-    console.log(`Gasto na semana ${i}: ${somarArr(gastos[i])}`);
-}
+
+// SOLUÇÃO MELHORADA
+
+// function somarArr(arr) {
+//     var total = 0;
+//     for (var i = 0; i < arr.length; i++) {
+//         total += arr[i];
+//     }
+//     return total;
+// }
+
+// for (var i = 0; i < gastos.length; i++) {
+//     console.log(`Gasto na semana ${i}: ${somarArr(gastos[i])}`);
+// }
