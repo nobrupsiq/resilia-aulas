@@ -6,5 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
   </head>
-  <body></body>
+  <body>
+    <input
+      type="text"
+      id="url"
+      style="width: 300px"
+      value="Digitar a requisição"
+    />
+    <button onclick="fazerRequisicao()">Fazer requisição</button>
+    <br />
+    <div id="resposta"></div>
+
+    <script>
+      function fazerRequisicao() {
+        var url = document.getElementById("url").value;
+        var xhttp = new XMLHttpRequest();
+        xhttp.open("GET", url, false);
+        xhttp.send();
+        document.getElementById("resposta").innerHTML = xhttp.responseText;
+      }
+    </script>
+  </body>
 </html>
