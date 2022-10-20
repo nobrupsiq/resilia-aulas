@@ -53,7 +53,7 @@ expandir seu networking?
 auditório, varanda, buffet/coffee, WC feminino/masculino.
 - Café
 fiz uma pesquisa e o dono da empresa gosta de lutas e nao tem tempo disponivel
-Eu - Assistiu a luta ontem? 
+Eu - Assistiu a luta ontem?
 Empresa - Assisti sim, foi avassaladora não é mesmo?
 Eu - Sim, Vai ser do mesmo jeito que eu vou orquestrar os projetos da sua empresa.
 
@@ -93,9 +93,15 @@ Dicas para fazer o mapeamento de rede
 - tenham alguma proximidade com alguém que você conhece
 
 
-Texto que explica de forma resumida o motivo pelo qual a vaga te interessa. 
+Texto que explica de forma resumida o motivo pelo qual a vaga te interessa.
 
 - Máximo uma pagina
 - Se apresentar
 - Resumir seu historico
 - Motivo de interesse na vaga
+
+
+STRENGHTS - Força
+weaknesses - fraqueza
+opportunities - oportunidades
+threats - ameaças
