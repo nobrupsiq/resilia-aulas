@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        // const pc = {
+        //     marca: 'Dell',
+        //     tamanho: {vertical: 27, horizontal: 20},
+        //     capacidade: '12GB'
+        // }
+        // const pc2 = {
+        //     marca: 'Asus',
+        //     tamanho: {vertical: 19, horizontal: 23},
+        //     capacidade: '16GB'
+        // }
+        
+        function listarPc(marca, tamanho, capacidade, fun) {
+            return {
+                marca,
+                tamanho,
+                capacidade,
+                ligar() {
+                    console.log(this.marca + ' LIGOU')
+                }
+            }
+        }
+        
+        const valor1 = new listarPc('DELL', 25, '8GB');
+        const valor2 = new listarPc('Asus', 20, '16GB');
+        
+        console.log(valor1, valor2)
+
+    </script>
+    
+</body>
+</html>
