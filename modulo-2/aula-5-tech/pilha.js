@@ -32,8 +32,12 @@ function pilha() {
 
 var valor = new pilha();
 valor.push(2);
+valor.print();
 valor.push(4);
+valor.print();
 valor.push(6);
+valor.print();
 valor.push(8);
+valor.print();
 valor.push(10);
 valor.print();
