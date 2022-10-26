@@ -48,3 +48,18 @@ switch (cargo) {
         salario *= 1.20;
 }
 console.log(salario)
+
+
+let idade = 19
+
+if (idade >= 18) {
+    console.log(true)
+} else {
+    console.log(false)
+}
+
+
+let idade2 = 19
+let podeDirigir = idade2 >= 18 ? true : false;
+
+console.log(podeDirigir)
