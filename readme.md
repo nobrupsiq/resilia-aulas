@@ -2,7 +2,7 @@
 
 <br>
 
->Atualmente no no módulo 1
+>Atualmente no no módulo 2
 
 
 ### ASSUNTOS E TECNOLOGIAS 🔧⚙
