@@ -1,0 +1,52 @@
+#fila-container {
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 45px;
+  display: flex;
+  flex-direction: row;
+  line-height: auto;
+}
+.elemento-da-fila {
+  height: 500px;
+  width: 20%;
+  background-color: rgb(232, 161, 161);
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  transition-duration: 4s;
+  animation-name: examples;
+  line-height: 100px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#button-div {
+  background-color: rgb(246, 240, 251);
+  width: 177px;
+  margin: auto;
+  margin-top: 40px;
+}
+button {
+  margin-top: 10px;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  background-color: rgb(254, 230, 195);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+body {
+  background-color: rgb(200, 239, 239);
+}
+input {
+  height: 50px;
+  text-align: center;
+}
+
+@keyframes examples {
+  from {
+    background-color: red;
+  }
+  to {
+    background-color: yellow;
+  }
+}
