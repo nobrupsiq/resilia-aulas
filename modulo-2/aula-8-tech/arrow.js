@@ -4,7 +4,7 @@ function total(a = 10, b = 20) {
 
 // console.log(total())
 
-const addMensagem = (mensagem, data = Date.now()) => {
+const addMensagem = (mensagem, data = Date.now()) => { // Function date como parametro de callback
     const teste = `${mensagem} ${data}`
     return teste;
 }
