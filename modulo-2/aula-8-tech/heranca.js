@@ -26,12 +26,14 @@ class Mago extends Heroi {
 }
 
 const view = new Mago('MARVEL', 223, 'Sapo')
-Mago.prototype.getNome // FUNCIONA APENAS NO PROTOTYPE DA FUNÇÃO
-Mago.prototype.getNivel // FUNCIONA APENAS NO PROTOTYPE DA FUNCÃO DE CALLBACK
+
+Mago.prototype.getNome    // FUNCIONA APENAS NO PROTOTYPE DA FUNÇÃO
+Mago.prototype.getNivel   // FUNCIONA APENAS NO PROTOTYPE DA FUNCÃO DE CALLBACK
 
 console.log(view)
 console.log(view.nome)
 console.log(view.nivel)
+
 
 
 
