@@ -1,0 +1,5 @@
+M.V.C. - funcionamento
+A lógica e separação das responsabilidades na arquitetura MVC são:
+⇨ Model: Abstração das entidades, validação dos dados e possível armazenamento;
+⇨ View: Criação e manipulação dos elementos de interface referentes a entidade;
+⇨ Controller: Orq
