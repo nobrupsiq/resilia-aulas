@@ -1,0 +1,11 @@
+button {
+  padding: 10px 80px;
+  background-color: #f06666;
+  color: #fff;
+  font-size: 50px;
+  transition: 0.3s;
+}
+
+button:hover {
+  scale: 1.1;
+}
