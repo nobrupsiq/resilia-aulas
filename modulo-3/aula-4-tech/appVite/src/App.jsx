@@ -1,11 +1,11 @@
-import { useState } from "react";
 import "./App.css";
+import ButtonLike from "./components/ButtonLike/ButtonLike.jsx";
 
 function App() {
   return (
     <div className="App">
-      <h1>Teste</h1>
-      <button>Like</button>
+      <h1>React Teste</h1>
+      <ButtonLike texto="LIKE" />
     </div>
   );
 }
