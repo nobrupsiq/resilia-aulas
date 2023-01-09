@@ -1,0 +1,2 @@
+Entidades são modelos (objetos) da nossa realidade sobre os quais queremos
+guardar dados.
